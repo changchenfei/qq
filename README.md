@@ -1,5 +1,4 @@
-# qq
-qwe
+#Degree Detection
 使用条款
 
 
